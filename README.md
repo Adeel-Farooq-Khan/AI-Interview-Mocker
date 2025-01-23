@@ -1,4 +1,4 @@
-![alt text](https://github.com/[Adeel-Farooq-Khan]/[AI-Interview-Mocker]/CI1.jpg?raw=true)
+![alt text](https://github.com/Adeel-Farooq-Khan/AI-Interview-Mocker/raw/main/CI1.jpg)
 # AI Interview Mocker
 
 ## Overview
