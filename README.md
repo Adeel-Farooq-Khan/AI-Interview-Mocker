@@ -42,10 +42,15 @@ npm install
 ### 3. Environment Configuration
 Create a `.env.local` file with:
 ```
-DATABASE_URL=your_postgresql_connection_string
+NEXT_PUBLIC_DRIBBLE_URL=your_postgresql_connection_string
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_clerk_key
 CLERK_SECRET_KEY=your_clerk_secret
-GEMINI_API_KEY=your_gemini_api_key
+NEXT_PUBLIC_GEMINI_API_KEY=your_gemini_api_key
+NEXT_PUBLIC_INTERVIEW_QUESTION_COUNT = 5
+NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
+NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
+NEXT_PUBLIC_INFORMATION = "Enable Video Web Cam and Microphone to Start your Al Generated Mock Interview, It Has 5 question which you can answer and at the last you will get the report on the basis of your answer. NOTE: We never record your video, Web cam access you can disable at any time if you want"
+NEXT_PUBLIC_NOTE = "Click on Record Answer when you want to answer the question. At the end of interview we will give you the feedback along with correct answer for each of question and your answer to comapre it."
 ```
 
 ### 4. Database Setup
