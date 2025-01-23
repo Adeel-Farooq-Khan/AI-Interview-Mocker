@@ -30,7 +30,7 @@ AI Interview Mocker is a web application that provides AI-powered mock interview
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/ai-interview-mocker.git
+git clone https://github.com/Adeel-Farooq-Khan/AI-Interview-Mocker.git
 cd ai-interview-mocker
 ```
 
