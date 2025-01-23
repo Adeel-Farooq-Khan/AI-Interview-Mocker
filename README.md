@@ -1,4 +1,4 @@
-![alt text](https://sjc.microlink.io/BXLDiX45uLNKleIrU5SF_JYCxUxX9bK9QTEKAvwNhY6sQxgBCvLUwdLyaqI2B2Ba12dc--HasxWgw4pnXgoG_g.jpeg)
+![alt text](https://github.com/[Adeel-Farooq-Khan]/[AI-Interview-Mocker]/blob/[branch]/CI1.jpg?raw=true)
 # AI Interview Mocker
 
 ## Overview
