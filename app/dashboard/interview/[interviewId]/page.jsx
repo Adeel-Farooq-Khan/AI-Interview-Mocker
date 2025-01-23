@@ -64,6 +64,7 @@ function Interview({ params }) {
       <div className="flex flex-col items-center gap-5 mt-10 w-full md:w-1/2">
         {webCamEnabled ? (
           <Webcam
+          mirrored
             audio={false}
             onUserMedia={() => setWebCamEnabled(true)}
             onUserMediaError={() => setWebCamEnabled(false)}
