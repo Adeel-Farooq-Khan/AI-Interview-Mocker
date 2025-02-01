@@ -68,8 +68,9 @@ function AddNewInterview() {
   
           console.log("Inserted successfully:", newMockId);
           setOpenDialog(false);
+          router.refresh();
           router.push(`/dashboard/interview/${newMockId}`);
-
+          
         } catch (dbError) {
           console.error("Database insertion error:", dbError);
           throw dbError; // Re-throw to be caught by outer catch
