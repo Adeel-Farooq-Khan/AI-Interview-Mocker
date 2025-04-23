@@ -39,7 +39,7 @@ export default function Home() {
         </div>
         <div className="md:w-1/2">
           <Image
-            src="https://www.ttnews.com/articles/using-ai-for-job-interviews"
+            src="https://miro.medium.com/v2/resize:fit:650/1*1sIfrB5FpxSuh9q8gs87SQ.jpeg"
             alt="AI Interview Platform Illustration"
             width={600}
             height={400}
