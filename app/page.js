@@ -39,7 +39,7 @@ export default function Home() {
         </div>
         <div className="md:w-1/2">
           <Image
-            src="https://sjc.microlink.io/BXLDiX45uLNKleIrU5SF_JYCxUxX9bK9QTEKAvwNhY6sQxgBCvLUwdLyaqI2B2Ba12dc--HasxWgw4pnXgoG_g.jpeg"
+            src="/mock.jpg"
             alt="AI Interview Platform Illustration"
             width={600}
             height={400}
