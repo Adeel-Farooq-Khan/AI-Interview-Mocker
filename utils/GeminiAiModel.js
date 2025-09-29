@@ -14,7 +14,7 @@ try {
   const genAI = new GoogleGenerativeAI(apiKey);
 
   const model = genAI.getGenerativeModel({
-    model: "gemini-1.5-pro", // Update to your required model version
+    model: "gemini-2.5-pro", // Update to your required model version
   });
 
   if (!model) {
