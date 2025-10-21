@@ -1,6 +1,4 @@
 # AI Interview Mocker
-![alt text](https://github.com/Adeel-Farooq-Khan/AI-Interview-Mocker/raw/main/CI1.jpg)
-
 ## Overview
 AI Interview Mocker is a web application that provides AI-powered mock interview experiences, helping users practice and improve their interview skills using advanced AI technologies.
 
